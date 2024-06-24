@@ -45,6 +45,8 @@ function ChallengeMod.addLocalization()
   G.localization.misc.v_text.ch_c_cm_all_facedown = { "All cards except those held in hand are face down" }
   G.localization.misc.v_text.ch_c_cm_mult_dollar_cap = { "{C:blue}Mult{} cannot exceed the current {C:money}$" }
   G.localization.misc.v_text.ch_c_cm_deck = { "Played on #1#{}" }
+  G.localization.misc.v_text.ch_c_cm_soul_luck = { "Your soul feels weird..." }
+  G.localization.misc.v_text.ch_c_cm_wildin = { "Only wild looking jokers may enter this area." }
   --  Credit Tags
   G.localization.misc.v_text.ch_c_cm_credit = { "Concept by: {C:green}#1#{}" }
 end
